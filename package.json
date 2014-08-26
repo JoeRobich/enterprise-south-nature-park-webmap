@@ -1,0 +1,17 @@
+{
+  "name": "enterprise-south-nature-park-webmap",
+  "version": "0.0.1",
+  "description": "Hiking trail navigator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/druttka/enterprise-south-nature-park-webmap.git"
+  },
+  "devDependencies": {
+    "jshint-stylish": "~0.4.0",
+    "gulp-jshint": "~1.8.4",
+    "gulp": "~3.8.7"
+  }
+}
