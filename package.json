@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/druttka/enterprise-south-nature-park-webmap.git"
+    "url": "git://github.com/openchattanooga/enterprise-south-nature-park-webmap.git"
   },
   "devDependencies": {
     "jshint-stylish": "~0.4.0",
